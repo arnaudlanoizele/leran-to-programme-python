@@ -1,1 +1,1 @@
-leran-to-programme-python
+learn-to-programme-python
